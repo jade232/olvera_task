@@ -1,0 +1,16 @@
+/* .main_hero_section {
+    background-image: url("../../../assets/hero_bg.png");
+    height: 83vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+.main_hero_section img {
+    filter: brightness(0.4);
+}
+
+.hero_header {
+    color: #fff;
+    font-size: 4em;
+}
